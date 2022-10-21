@@ -3,9 +3,9 @@
 
 - 🎓 I graduated from Georgia College and State University in 2021 with a Bachelor's in Computer Science
 
-- 💻 I’m passionate about Web Development and Software Engineering
+- 💻 I'm currently employed as a Full Stack Developer at SimplePart LLC
 
-- 🌱 I’m currently learning reactjs and studying to become certified with AWS
+- 🌱 I’m currently learning ASP.NET and studying to become scrum certified
 
 - 💡 My current project is my personal site!
 
