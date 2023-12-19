@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @JackValladares
 <br />
 
-- 🎓 I graduated from Georgia College and State University in 2021 with a Bachelor's in Computer Science
+- 🎓 I graduated from Georgia College and State University in 2021 with a Bachelor's in Computer Science. I'm currently studying for my Master's Degree at Georgia Tech
 
 - 💻 I'm currently employed as a Full Stack Developer at BIP Ventures in Atlanta, Georgia
 
-- 🌱 I’m currently learning ASP.NET and studying to become scrum certified
+- 🌱 I’m currently refining my knowledge in React & Typescript
 
 - 💡 My current project is my personal site!
 
