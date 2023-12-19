@@ -3,7 +3,7 @@
 
 - 🎓 I graduated from Georgia College and State University in 2021 with a Bachelor's in Computer Science
 
-- 💻 I'm currently employed as a Full Stack Developer at SimplePart LLC
+- 💻 I'm currently employed as a Full Stack Developer at BIP Ventures in Atlanta, Georgia
 
 - 🌱 I’m currently learning ASP.NET and studying to become scrum certified
 
